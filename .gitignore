@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VS Code / Cursor
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Distribution
+*.egg
+*.whl
+
+# macOS extended
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachinelock.plist
+._*
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
